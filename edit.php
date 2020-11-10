@@ -1,6 +1,9 @@
+
+
+
 <html lang="en">
 <head>
-  <title>Add New Insurer</title>
+  <title>Update Insurer</title>
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
 
@@ -10,10 +13,10 @@
 
 <div class="container" style="margin-top:20px">
 <div class="row"> 
-<h1>Add New Insurer</h1>
+<h1>Update Insurer</h1>
 <div class="col-md-9">
   <div class="panel panel-default">
-    <!-- <div class="panel-heading">Add New Insurer</div> -->
+    <!-- <div class="panel-heading">Update Insurer</div> -->
     <div class="panel-body">
 
 
@@ -92,7 +95,7 @@
     
         <p></p>
 
-        <input type="submit" name="submit" value="Add Insurer" class="btn btn-success">
+        <input type="submit" name="submit" value="Update Insurer" class="btn btn-success">
 
         <a href="index.php"><button type="button" class="btn btn-danger">Cancel</button></a>
 
@@ -164,9 +167,14 @@
             </div>
           </div>
         </div>
+
+         
+
+
     </div>
   </div>
 </div>
+
 </div>
 </div>
 
